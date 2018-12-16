@@ -1,4 +1,4 @@
-# CRUDimentary Policy
+# CRUDimentary - Policy
 
 CRUDimentary Policy is part of the
 [CRUDimentary](https://github.com/CRUDimentary/crudimentary) suite of tools.
