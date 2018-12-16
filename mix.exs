@@ -8,7 +8,7 @@ defmodule CRUDimentary.MixProject do
       elixir: "~> 1.7",
       start_permanent: Mix.env() == :prod,
       deps: deps(),
-      name: "CRUDimentary-policy",
+      name: "CRUDimentary - Policy",
       source_url: "https://github.com/CRUDimentary/crudimentary-policy",
       docs: [
         main: "CRUDimentary - Policy",
